@@ -1,0 +1,182 @@
+2015-06-13 20:04:32.491 Hello World[11918:320469] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:04:32.492 Hello World[11918:320469] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:04:32.570 Hello World[11918:320469] Unlimited access to network resources
+2015-06-13 20:04:32.631 Hello World[11918:320469] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:04:35.824 Hello World[11918:320469] Resetting plugins due to page load.
+2015-06-13 20:04:36.449 Hello World[11918:320469] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/BE543DF6-3CC2-44EB-958F-8A295E03BDC6/Hello%20World.app/www/index.html
+2015-06-13 20:17:46.930 Taxi Share[12176:327235] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:17:46.943 Taxi Share[12176:327235] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:17:46.957 Taxi Share[12176:327235] Unlimited access to network resources
+2015-06-13 20:17:46.970 Taxi Share[12176:327235] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:17:47.844 Taxi Share[12176:327235] Resetting plugins due to page load.
+2015-06-13 20:17:48.630 Taxi Share[12176:327235] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/2A50227F-BEC2-443F-BB9B-0074A7BFA578/Taxi%20Share.app/www/index.html
+2015-06-13 20:22:44.196 Taxi Share[12360:330130] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:22:44.210 Taxi Share[12360:330130] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:22:44.222 Taxi Share[12360:330130] Unlimited access to network resources
+2015-06-13 20:22:44.248 Taxi Share[12360:330130] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:22:44.926 Taxi Share[12360:330130] Resetting plugins due to page load.
+2015-06-13 20:22:45.975 Taxi Share[12360:330130] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/747BAE4F-2DF4-4D9D-8742-933C784ABC12/Taxi%20Share.app/www/index.html
+2015-06-13 20:23:15.668 Taxi Share[12511:330693] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:23:15.668 Taxi Share[12511:330693] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:23:15.673 Taxi Share[12511:330693] Unlimited access to network resources
+2015-06-13 20:23:15.675 Taxi Share[12511:330693] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:23:15.787 Taxi Share[12511:330693] Resetting plugins due to page load.
+2015-06-13 20:23:15.871 Taxi Share[12511:330693] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/0FCBFE80-FBDE-4F72-8861-1EE96B05FA4F/Taxi%20Share.app/www/index.html
+2015-06-13 20:24:17.033 Taxi Share[12665:331456] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:24:17.034 Taxi Share[12665:331456] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:24:17.050 Taxi Share[12665:331456] Unlimited access to network resources
+2015-06-13 20:24:17.052 Taxi Share[12665:331456] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:24:17.553 Taxi Share[12665:331456] Resetting plugins due to page load.
+2015-06-13 20:24:17.663 Taxi Share[12665:331456] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/C8FDE534-55FA-4BB3-A447-77F7B603D75E/Taxi%20Share.app/www/index.html
+2015-06-13 20:25:05.788 Taxi Share[12814:332218] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:25:05.808 Taxi Share[12814:332218] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:25:05.825 Taxi Share[12814:332218] Unlimited access to network resources
+2015-06-13 20:25:05.829 Taxi Share[12814:332218] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:25:05.938 Taxi Share[12814:332218] Resetting plugins due to page load.
+2015-06-13 20:25:06.004 Taxi Share[12814:332218] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/24C316BE-C9F0-45A9-A0B3-E8FF3B752C58/Taxi%20Share.app/www/index.html
+2015-06-13 20:29:36.980 Taxi Share[12984:334389] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:29:36.981 Taxi Share[12984:334389] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:29:36.994 Taxi Share[12984:334389] Unlimited access to network resources
+2015-06-13 20:29:36.996 Taxi Share[12984:334389] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:29:37.111 Taxi Share[12984:334389] Resetting plugins due to page load.
+2015-06-13 20:29:37.233 Taxi Share[12984:334389] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/7935A2A2-62DA-4BB3-9E83-1F3F23F402B0/Taxi%20Share.app/www/index.html
+2015-06-13 20:33:21.488 Taxi Share[13152:336232] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:33:21.489 Taxi Share[13152:336232] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:33:21.510 Taxi Share[13152:336232] Unlimited access to network resources
+2015-06-13 20:33:21.513 Taxi Share[13152:336232] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:33:21.980 Taxi Share[13152:336232] Resetting plugins due to page load.
+2015-06-13 20:33:22.079 Taxi Share[13152:336232] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/290E2BD7-4AE6-4DB8-B3E7-DCC8CC1001DC/Taxi%20Share.app/www/index.html
+2015-06-13 20:34:03.967 Taxi Share[13301:336878] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:34:03.986 Taxi Share[13301:336878] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:34:03.989 Taxi Share[13301:336878] Unlimited access to network resources
+2015-06-13 20:34:03.992 Taxi Share[13301:336878] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:34:04.415 Taxi Share[13301:336878] Resetting plugins due to page load.
+2015-06-13 20:34:04.551 Taxi Share[13301:336878] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/43D4D402-8858-46C6-B2EB-87D967B18DD9/Taxi%20Share.app/www/index.html
+2015-06-13 20:34:47.739 Taxi Share[13449:337600] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:34:47.753 Taxi Share[13449:337600] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:34:47.769 Taxi Share[13449:337600] Unlimited access to network resources
+2015-06-13 20:34:47.772 Taxi Share[13449:337600] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:34:48.217 Taxi Share[13449:337600] Resetting plugins due to page load.
+2015-06-13 20:34:48.298 Taxi Share[13449:337600] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/4E791DD5-9EAA-4E21-B986-6E1D49DA5B88/Taxi%20Share.app/www/index.html
+2015-06-13 20:37:06.139 Taxi Share[13610:339021] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:37:06.162 Taxi Share[13610:339021] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:37:06.181 Taxi Share[13610:339021] Unlimited access to network resources
+2015-06-13 20:37:06.221 Taxi Share[13610:339021] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:37:07.205 Taxi Share[13610:339021] Resetting plugins due to page load.
+2015-06-13 20:37:10.188 Taxi Share[13610:339021] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/83F848A6-4E9A-4971-85F4-1F2550D8CED5/Taxi%20Share.app/www/index.html
+2015-06-13 20:39:10.920 Taxi Share[13765:340332] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:39:10.932 Taxi Share[13765:340332] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:39:10.950 Taxi Share[13765:340332] Unlimited access to network resources
+2015-06-13 20:39:10.995 Taxi Share[13765:340332] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:39:11.920 Taxi Share[13765:340332] Resetting plugins due to page load.
+2015-06-13 20:39:12.864 Taxi Share[13765:340332] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/5BE56170-D27B-40DA-8AD8-CC365068C5AD/Taxi%20Share.app/www/index.html
+2015-06-13 20:39:52.708 Taxi Share[13915:341044] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:39:52.720 Taxi Share[13915:341044] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:39:52.736 Taxi Share[13915:341044] Unlimited access to network resources
+2015-06-13 20:39:52.746 Taxi Share[13915:341044] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:39:53.404 Taxi Share[13915:341044] Resetting plugins due to page load.
+2015-06-13 20:39:53.976 Taxi Share[13915:341044] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/8EF039AE-5778-4F72-85A9-72CAEFB8D0A0/Taxi%20Share.app/www/index.html
+2015-06-13 20:41:12.348 Taxi Share[14066:341946] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-13 20:41:12.360 Taxi Share[14066:341946] Multi-tasking -> Device: YES, App: YES
+2015-06-13 20:41:12.374 Taxi Share[14066:341946] Unlimited access to network resources
+2015-06-13 20:41:12.420 Taxi Share[14066:341946] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 20:41:13.314 Taxi Share[14066:341946] Resetting plugins due to page load.
+2015-06-13 20:41:14.748 Taxi Share[14066:341946] Finished load of: file:///Users/gabrielemarazzi/Library/Developer/CoreSimulator/Devices/99419DB4-040F-4DDE-B603-16C5D566FD13/data/Containers/Bundle/Application/9A3B64CE-D210-498E-83F8-E8308540D981/Taxi%20Share.app/www/index.html
